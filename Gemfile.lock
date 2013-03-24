@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    active_support (3.0.0)
+      activesupport (= 3.0.0)
+    activesupport (3.0.0)
+    highline (1.6.16)
+    httpclient (2.3.3)
+    rally_api (0.9.4)
+      httpclient (>= 2.2.4)
+    rubygems-bundler (1.1.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  active_support
+  highline
+  rally_api
+  rubygems-bundler
